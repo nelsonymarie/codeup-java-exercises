@@ -8,29 +8,29 @@ public class GradesApplication {
         HashMap<String, Student> students = new HashMap<>();
 
         // Create some students
-        Student alice = new Student("Alice");
-        alice.addGrade(90);
-        alice.addGrade(85);
-        alice.addGrade(95);
-        students.put("Alice", alice);
+        Student Mushroom = new Student("Alice");
+        Mushroom.addGrade(90);
+        Mushroom.addGrade(85);
+        Mushroom.addGrade(95);
+        students.put("Alice", Mushroom);
 
-        Student bob = new Student("Bob");
-        bob.addGrade(80);
-        bob.addGrade(75);
-        bob.addGrade(70);
-        students.put("Bob", bob);
+        Student Princess = new Student("Bob");
+        Princess.addGrade(80);
+        Princess.addGrade(75);
+        Princess.addGrade(70);
+        students.put("Bob", Princess);
 
-        Student charlie = new Student("Charlie");
-        charlie.addGrade(95);
-        charlie.addGrade(90);
-        charlie.addGrade(100);
-        students.put("Charlie", charlie);
+        Student Mario = new Student("Charlie");
+        Mario.addGrade(95);
+        Mario.addGrade(90);
+        Mario.addGrade(100);
+        students.put("Charlie", Mario);
 
-        Student dave = new Student("Dave");
-        dave.addGrade(70);
-        dave.addGrade(60);
-        dave.addGrade(80);
-        students.put("Dave", dave);
+        Student Luigi = new Student("Dave");
+        Luigi.addGrade(70);
+        Luigi.addGrade(60);
+        Luigi.addGrade(80);
+        students.put("Dave", Luigi);
 
         // Print the list of GitHub usernames
         System.out.println("Welcome!");

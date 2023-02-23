@@ -44,7 +44,6 @@ public class ArraysExercises {
 }
 
 
-
 //import java.util.Random;
 //
 //public class ServerNameGenerator {
@@ -62,12 +61,6 @@ public class ArraysExercises {
 //
 //}
 //
-
-
-
-
-
-
 
 
 //import java.util.Arrays;
